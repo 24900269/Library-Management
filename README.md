@@ -41,8 +41,8 @@ To draw a UML diagram for an Library Management System.
 
 ## SEQUENTIAL DIAGRAM
 <img width="945" height="764" alt="Screenshot 2026-02-12 162001" src="https://github.com/user-attachments/assets/ed58b780-ad99-4b02-9827-2b96b11549df" />
-## ACTIVITY DIAGRAM
 
+## ACTIVITY DIAGRAM
 <img width="878" height="975" alt="Screenshot 2026-02-12 162050" src="https://github.com/user-attachments/assets/e3089545-f043-4ba6-8fef-8f21ad7989af" />
 
 ## PACKAGE DIAGRAM
